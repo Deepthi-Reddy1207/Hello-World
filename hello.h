@@ -1,8 +1,4 @@
-/**
- * @file hello.h
- * @brief Header file for printing Hello, World!
- */
-
+harshitha edited this
 #ifndef HELLO_H
 #define HELLO_H
 
