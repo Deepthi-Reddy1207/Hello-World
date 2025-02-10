@@ -1,7 +1,4 @@
-/**
- * @file main.cpp
- * @brief Main program to call the Hello function.
- */
+#edited
 
 #include "hello.h"
 
